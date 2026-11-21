@@ -1,4 +1,4 @@
-# Decodificação RF — Controle de ventilador Arno
+# Decodificação RF — Controle de ventilador Arno VX13
 
 **Documentação técnica — revisão de 20/11/2026**
 
